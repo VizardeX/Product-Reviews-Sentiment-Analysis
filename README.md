@@ -1,4 +1,4 @@
-# Sentiment Analysis on Product Reviews 🎭
+# Sentiment Analysis on Product Reviews
 
 This project was completed as **Task 1** of the Elevvo Pathways NLP Internship.  
 The goal was to build an end-to-end sentiment analysis pipeline on product/movie reviews to classify them as **positive** or **negative**.
