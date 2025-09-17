@@ -30,8 +30,7 @@ The goal was to build an end-to-end sentiment analysis pipeline on product/movie
 - Pandas  
 - scikit-learn  
 - spaCy  
-- NLTK  
-- Matplotlib / Seaborn  
+- Matplotlib  
 
 ---
 
